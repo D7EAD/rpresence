@@ -1,9 +1,9 @@
 {
-    "applicationID": "856377132950093855",
-    "state": "Let's say, hypothetically.",
-    "details": "Currently: owning liberals.",
-    "largeImageKey": "benshapiro",
-    "largeImageText": "Let's say, hypothetically, that you, my mother, were to give me, your son, your credit card information so I can buy Robux.",
-    "smallImageKey": "america",
-    "smallImageText": "My wife, who is a doctor."
+    "applicationID": "testID",
+    "state": "sample text",
+    "details": "sample text",
+    "largeImageKey": "sample text",
+    "largeImageText": "sample text",
+    "smallImageKey": "sample text",
+    "smallImageText": "sample text"
 }
