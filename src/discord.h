@@ -24,8 +24,8 @@ class Discord {
 			std::thread(this->background).join(); // stops main thread until user ends joined thread
 		}
 		enum errors : unsigned char { E_NO_ID = 0xF1,   E_NO_STATE,        E_NO_DETAILS,
-                                      E_NO_IMAGEKEY_L,  E_NO_IMAGETEXT_L,  E_NO_IMAGEKEY_S,
-									  E_NO_IMAGETEXT_S, E_JSON_TYPE_ERROR, E_FILE_NO_EXIST };
+                                              E_NO_IMAGEKEY_L,  E_NO_IMAGETEXT_L,  E_NO_IMAGEKEY_S,
+					      E_NO_IMAGETEXT_S, E_JSON_TYPE_ERROR, E_FILE_NO_EXIST };
 	private:
 		void init();
 		void update();
