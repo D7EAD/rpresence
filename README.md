@@ -6,7 +6,7 @@ rpresence is a simple and easy-to-use command-line utility to set a custom Rich 
 In order to use rpresence, several pieces of information are required--you can find more information below in the help menu:
 <img src="/images/help.jpg">
 <br>
-Instead of using rpresence via its command-line options, you can simply pass a JSON file in the following format to rpresence via the `-f` parameter:
+Instead of using rpresence via its command-line options, you can simply pass a JSON file in the following format to rpresence via the <code>-f</code> parameter:
 
 ```json
 {
