@@ -21,4 +21,4 @@ Instead of using rpresence via its command-line options, you can simply pass a J
 ```
 <br>
 <b>NOTE:</b>
-When passing long sentences to parameters <code>-imgSText</code> and <code>-imgLText</code>, be sure to enclose provided text in quotes ("") to ensure the sentence is not split via a space delimiter.
+When passing long sentences to parameters <code>-imgSText</code>, <code>-imgLText</code>, <code>-s</code>, and <code>-d</code> be sure to enclose provided text in quotes ("") to ensure the sentence is not split via a space delimiter.
